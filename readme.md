@@ -5,6 +5,7 @@ A bracket generator for amiibo tournaments.
 Amiibo spreadsheet from Submissionapp
 
 (get it using this button in the tournament entries page)
+
 ![alt text](media/image.png)
 
 [Challonge api key](https://challonge.com/settings/developer)
